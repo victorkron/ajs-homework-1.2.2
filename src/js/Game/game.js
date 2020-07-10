@@ -1,5 +1,5 @@
 import Character from '../Domain/domain.js';
-import Some, { someParam as myFunc } from './src/app.js';
+
 class Game {
   start() {
     console.log('game started');
